@@ -1,0 +1,1 @@
+Smoke test failed: Failed to load ext4shim.dll: Could not find module 'E:\Scrypts\EXT4\native\ext4shim\bin\ext4shim.dll' (or one of its dependencies). Try using the full path with constructor syntax.

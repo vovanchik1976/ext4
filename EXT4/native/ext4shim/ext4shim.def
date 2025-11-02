@@ -1,0 +1,11 @@
+EXPORTS
+    ext4_close @1
+    ext4_listdir @2
+    ext4_mkdirs @3
+    ext4_mkfs @4
+    ext4_open @5
+    ext4_read @6
+    ext4_remove @7
+    ext4_rename @8
+    ext4_stat @9
+    ext4_write_overwrite @10

@@ -1,0 +1,12 @@
+LIBRARY ext4shim
+EXPORTS
+  ext4_open
+  ext4_close
+  ext4_listdir
+  ext4_stat
+  ext4_read
+  ext4_write_overwrite
+  ext4_mkdirs
+  ext4_remove
+  ext4_rename
+  ext4_mkfs
